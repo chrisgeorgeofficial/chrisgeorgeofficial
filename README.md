@@ -12,8 +12,6 @@
 
 -🎓 I am a Computer Engineering student 
 
--✨  I’m currently learning everything about machine learning
-
 -💪🏼 Future Goals: Learn more technologies and leverage my skills.
 
 
