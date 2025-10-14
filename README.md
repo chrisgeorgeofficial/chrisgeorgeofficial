@@ -44,7 +44,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisgeorgeofficial&theme=tokyonight" alt="NIL" align="right" width="452"/>
 <br><br><br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgeorgeofficial&layout=compact&theme=midnight-purple)](https://github.com/chrisgeorgeofficial/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgeorgeofficial&layout=compact&theme=midnight-purple" alt="Top Languages" />
+
 <br>
 
 <!--## Coding Stats
