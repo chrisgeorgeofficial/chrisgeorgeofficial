@@ -8,9 +8,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
- -🎓I am a Student, Developer and a Learner!
-
--🎓 I am a Computer Engineering student 
+ -🎓I am a Software Engineer and a Learner!
+ 
 
 -💪🏼 Future Goals: Learn more technologies and leverage my skills.
 
